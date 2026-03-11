@@ -1,0 +1,7 @@
+{
+  "name": "TradeWise AI",
+  "description": "A high-performance share market application with AI-driven portfolio analysis, real-time data visualization, and virtual trading simulation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
